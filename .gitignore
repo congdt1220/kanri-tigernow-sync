@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+daily_report_*.json
+kanri_projects.json
+kanri_tasks.csv
+kanri_tasks.json
+report.txt

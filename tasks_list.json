@@ -1,0 +1,538 @@
+[
+  {
+    "taskId": "d6a124f5-f792-4c7c-8e24-54fc5a276c89",
+    "taskName": "#242584 | SD5 - JEMS5-Shogun Customize | G722　出荷入力"
+  },
+  {
+    "taskId": "128087bf-d857-4f3f-a31d-7ef522beff93",
+    "taskName": "#242585 | SD5 - JEMS5-Shogun Customize | R338　（帳票）仕切書"
+  },
+  {
+    "taskId": "4eb4d12c-ffa9-408e-af78-f1c46334f958",
+    "taskName": "#242586 | SD5 - JEMS5-Shogun Customize | XG2576　仮伝票入力"
+  },
+  {
+    "taskId": "66d8e6c8-edf2-4d55-9325-01db69bf0372",
+    "taskName": "#242590 | SD5 - JEMS5-Shogun Customize | XR1263　（帳票）総括請求書"
+  },
+  {
+    "taskId": "6a0cc517-e117-4ef6-b0de-d0b05f2fd188",
+    "taskName": "#242591 | SD5 - JEMS5-Shogun Customize | XR1264　（帳票）総括支払明細書"
+  },
+  {
+    "taskId": "6ab60fca-c53c-4946-8feb-303b1faf0678",
+    "taskName": "#242596 | SD5 - JEMS5-Shogun Customize | G591　出金明細表"
+  },
+  {
+    "taskId": "1d3156db-e223-4c42-ad9c-2f2d38e547fd",
+    "taskName": "#242597 | SD5 - JEMS5-Shogun Customize | XR1371（帳票）仕入振込一覧"
+  },
+  {
+    "taskId": "4900b965-de55-4fe0-a014-d0a8084f159f",
+    "taskName": "#242602 | SD5 - JEMS5-Shogun Customize | M213 取引先入力 略称の自動入寮制御変更"
+  },
+  {
+    "taskId": "19741cba-9799-45a7-86d1-1695d3a9d744",
+    "taskName": "#245053 | SD5 - JEMS5-Shogun Customize | 輛検索ポップアップ 車輛検索後に検索結果が裏画面に表示されてしまう事業が発生した。"
+  },
+  {
+    "taskId": "9ca12251-39b8-4fb7-9261-62f5e4260877",
+    "taskName": "#245077 | SD5 - JEMS5-Shogun Customize | M215 業者入力 【標準バグマージ】電子マニフェスト補助データ作成"
+  },
+  {
+    "taskId": "f90da5d9-c78d-4b8f-985a-b5a4a11ab69b",
+    "taskName": "#245078 | SD5 - JEMS5-Shogun Customize | M217 現場入力 【標準バグマージ】電子マニフェスト補助データ作成"
+  },
+  {
+    "taskId": "c5cb0b24-2bef-45ff-949a-e17885482510",
+    "taskName": "#245086 | SD5 - JEMS5-Shogun Customize | G054 売上／支払入力 委託契約書チェックは、システム設定に連動させる。"
+  },
+  {
+    "taskId": "09d744d9-57ad-4dde-a242-4e78c177390b",
+    "taskName": "#245087 | SD5 - JEMS5-Shogun Customize | G123 マニフェスト紐付 マニフェストの契約書チェックの有無"
+  },
+  {
+    "taskId": "245b376c-c429-46db-bf3f-c89ef7708f64",
+    "taskName": "#245101 | SD5 - JEMS5-Shogun Customize | XG2525 現金出納入力 現金出納帳の出金額が行追加時の必須項目となっている"
+  },
+  {
+    "taskId": "da6d92ab-0c03-4b64-bb61-66d255b20eaf",
+    "taskName": "#245102 | SD5 - JEMS5-Shogun Customize | G015 収集受付入力 承認３のチェックを外しても、承認１，２のチェックが外れない"
+  },
+  {
+    "taskId": "065d81c0-6296-4dfe-8012-fd23ce7a6d5f",
+    "taskName": "#245199 | SD5 - JEMS5-Shogun Customize | Nhập chuyển kho (在庫移動入力)  Cho phép nhập/chỉnh sửa ngày nhập liệu trên màn hình nhập chuyển kho."
+  },
+  {
+    "taskId": "aaef4925-1de8-485e-8247-8d45a64b3ca1",
+    "taskName": "#245200 | SD5 - JEMS5-Shogun Customize | Phiếu thanh toán/đối soát (仕切書)  Bổ sung trường thời gian cân vào Phiếu thanh toán (仕切書) và Phiếu cân (計量票)."
+  },
+  {
+    "taskId": "ee304e9e-03d2-4294-9278-133b64bc0efb",
+    "taskName": "#245201 | SD5 - JEMS5-Shogun Customize | Phiếu cân (計量票)  Bổ sung trường thời gian cân vào Phiếu thanh toán (仕切書) và Phiếu cân (計量票)."
+  },
+  {
+    "taskId": "505271d5-0a5a-4259-8712-db0db1cae472",
+    "taskName": "005 | SD5 - JEMS5-Shogun Customize | Meeting"
+  },
+  {
+    "taskId": "e1feb11d-38be-49b4-8ac2-0099d3d78bd8",
+    "taskName": "006 | SD5 - JEMS5-Shogun Customize | Setup Environment"
+  },
+  {
+    "taskId": "4a0d3d14-b72f-4ca6-8b36-b4c806e74b49",
+    "taskName": "007 | SD5 - JEMS5-Shogun Customize | Q&A Correspondence"
+  },
+  {
+    "taskId": "a25622e6-4b59-4ab3-8505-1b303019e8cd",
+    "taskName": "008 | SD5 - JEMS5-Shogun Customize | Hand-over"
+  },
+  {
+    "taskId": "58cd4ab3-d42c-4fd1-adcd-19ffa5d2e652",
+    "taskName": "009 | SD5 - JEMS5-Shogun Customize | Research & Investigate improve perfomance"
+  },
+  {
+    "taskId": "9b6d7277-22e0-449e-91d4-6590a30737ed",
+    "taskName": "010 | SD5 - JEMS5-Shogun Customize | Research & Learning Working Process and Shogun System"
+  },
+  {
+    "taskId": "80cffff3-9792-45c8-9a92-da4662156506",
+    "taskName": "011 | SD5 - JEMS5-Shogun Customize | Technical & Work Process Support"
+  },
+  {
+    "taskId": "458aa0e9-c3e9-46ba-82c8-79a4f7589919",
+    "taskName": "1 | SD5 - JEMS5-Shogun Customize | Management Task"
+  },
+  {
+    "taskId": "d0787b56-dbab-43cf-8aed-84a1d3155e01",
+    "taskName": "110483 | SD5 - JEMS5-Shogun Customize |  110482_要興業_Ver2.5"
+  },
+  {
+    "taskId": "65dcfd4c-8c31-4824-b22a-18d34af7d74a",
+    "taskName": "133854 | SD5 - JEMS5-Shogun Customize |  133853_イーストコア_Ver2.9"
+  },
+  {
+    "taskId": "3fecdd18-dcf3-4c1e-9f0c-aab9a1f44286",
+    "taskName": "133854_Billing & Settlement | SD5 - JEMS5-Shogun Customize | 133853_イーストコア_Ver2.9"
+  },
+  {
+    "taskId": "0f377a77-81a6-4f54-9910-0ba01479bf89",
+    "taskName": "141504 | SD5 - JEMS5-Shogun Customize |  141504_北日本総業_Ver2.2"
+  },
+  {
+    "taskId": "07fc9571-6096-4919-aa43-ee400a9dcfc5",
+    "taskName": "162023 | SD5 - JEMS5-Shogun Customize | 155803_アースサポート_Ver2.19"
+  },
+  {
+    "taskId": "edc5b608-de5d-45c0-b1bb-929053291aae",
+    "taskName": "199209 | SD5 - JEMS5-Shogun Customize | 199209_三協興産_Ver2.4"
+  },
+  {
+    "taskId": "bbdf13eb-7d48-4628-9a43-2e11ea8e1116",
+    "taskName": "2 | SD5 - JEMS5-Shogun Customize | Giao hàng"
+  },
+  {
+    "taskId": "57d3bce3-ce9b-4c97-bf13-b788ab36d9fc",
+    "taskName": "2003_Reception | SD5 - JEMS5-Shogun Customize | 115814_京葉興業_Ver2.25"
+  },
+  {
+    "taskId": "0b06e3fd-3488-4ee5-9513-f38118fed62e",
+    "taskName": "2003_Sales & Payments | SD5 - JEMS5-Shogun Customize |  115814_京葉興業_Ver2.25"
+  },
+  {
+    "taskId": "6e8c9130-3c83-41a3-a657-562e8d39bd0f",
+    "taskName": "2004 | SD5 - JEMS5-Shogun Customize | 109406_山本清掃_Ver2.16"
+  },
+  {
+    "taskId": "920fc18e-1c44-4199-9154-68590cd9eb62",
+    "taskName": "20200522_Dispatch | SD5 - JEMS5-Shogun Customize | 137234_苫小牧清掃社_Ver2.1"
+  },
+  {
+    "taskId": "c8351074-dcb4-4883-92d6-be831d86c507",
+    "taskName": "20230686 | SD5 - JEMS5-Shogun Customize | 110482_要興業_Ver2.4"
+  },
+  {
+    "taskId": "1c170a7e-55e4-4336-98e5-e26f3bf2b8cf",
+    "taskName": "20240605 | SD5 - JEMS5-Shogun Customize | 199214_宝資源開発_Ver2.0"
+  },
+  {
+    "taskId": "bc81745e-97fc-4900-b188-72cec40f1186",
+    "taskName": "20250626_Dispatch | SD5 - JEMS5-Shogun Customize |  216749_日本医療環境サービス_Ver2.1"
+  },
+  {
+    "taskId": "02e105b5-e8dd-4f07-8db0-06a5fc1f17d7",
+    "taskName": "20250626_Manifest | SD5 - JEMS5-Shogun Customize |  216749_日本医療環境サービス_Ver2.1"
+  },
+  {
+    "taskId": "adf1495f-a0dc-4e31-a9a6-cb3de88a261f",
+    "taskName": "20250626_Reception | SD5 - JEMS5-Shogun Customize |  216749_日本医療環境サービス_Ver2.1"
+  },
+  {
+    "taskId": "6bd7ae91-45e7-430c-9835-67d9e16ffce0",
+    "taskName": "20251031_Receiving & Shipping | SD5 - JEMS5-Shogun Customize | 223691_成友興業_Ver2.1"
+  },
+  {
+    "taskId": "fb050c8e-5ca8-485e-baf6-ceebe965c3ca",
+    "taskName": "2026_OCT_WEEK1_1 | SD5 - JEMS5-Shogun Customize |  223691_成友興業_Ver2.3"
+  },
+  {
+    "taskId": "d20386ab-07ce-4041-a436-43a2ba803744",
+    "taskName": "2026_OCT_WEEK1_10 | SD5 - JEMS5-Shogun Customize | 199214_宝資源開発_Ver2.0"
+  },
+  {
+    "taskId": "ecf689e8-4df0-41ef-8c09-c5140c27c5ca",
+    "taskName": "2026_OCT_WEEK1_11 | SD5 - JEMS5-Shogun Customize | 204305_大空リサイクルセンター_Ver2.5"
+  },
+  {
+    "taskId": "e8ddd5de-65a6-4b18-8ecd-f587257ef43c",
+    "taskName": "2026_OCT_WEEK1_12 | SD5 - JEMS5-Shogun Customize | 223691_成友興業_Ver2.3"
+  },
+  {
+    "taskId": "434e5215-e283-441f-aaeb-42060f21ed39",
+    "taskName": "2026_OCT_WEEK1_13 | SD5 - JEMS5-Shogun Customize | 115201_アズマ油脂_Ver2.3"
+  },
+  {
+    "taskId": "dc75eb1e-c50e-4d27-814b-440bc3356e01",
+    "taskName": "2026_OCT_WEEK1_14 | SD5 - JEMS5-Shogun Customize | 222461_藤澤環境開発_Ver2.2"
+  },
+  {
+    "taskId": "8c3bc7ea-95a3-4c3b-9805-6c6387601416",
+    "taskName": "2026_OCT_WEEK1_15 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2"
+  },
+  {
+    "taskId": "b3110779-0f4a-4ee2-ae0b-6f7e49083bb1",
+    "taskName": "2026_OCT_WEEK1_16 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2"
+  },
+  {
+    "taskId": "4a53cc5b-945e-4c10-8945-839265a2070b",
+    "taskName": "2026_OCT_WEEK1_17 | SD5 - JEMS5-Shogun Customize | 120292_ニッポウ興産_Ver2.5"
+  },
+  {
+    "taskId": "ba295b36-2560-4dcf-8edc-d2c01deb3802",
+    "taskName": "2026_OCT_WEEK1_18 | SD5 - JEMS5-Shogun Customize | 216749_日本医療環境サービス_Ver2.1"
+  },
+  {
+    "taskId": "050738c7-6d5f-42c6-b6c9-ae20bc24d926",
+    "taskName": "2026_OCT_WEEK1_19 | SD5 - JEMS5-Shogun Customize | 164739_エコ計画_Ver2.4"
+  },
+  {
+    "taskId": "9304fcee-396d-4179-8d36-e82ef49a3cf6",
+    "taskName": "2026_OCT_WEEK1_2 | SD5 - JEMS5-Shogun Customize | 133853_イーストコア_Ver2.9"
+  },
+  {
+    "taskId": "7ad74a66-1c44-45ea-b865-8bec2ec0c79e",
+    "taskName": "2026_OCT_WEEK1_20 | SD5 - JEMS5-Shogun Customize | 120966_クリーンシステム（山形）_Ver2.15"
+  },
+  {
+    "taskId": "2c544dc3-efb3-45ec-8fec-c2c8ff8631fd",
+    "taskName": "2026_OCT_WEEK1_21 | SD5 - JEMS5-Shogun Customize | 213207_市川環境エンジニアリング：環境将軍R_C1_Ver2.6"
+  },
+  {
+    "taskId": "cc86c1e0-5013-4fe1-a793-2e8d6986ef0a",
+    "taskName": "2026_OCT_WEEK1_22 | SD5 - JEMS5-Shogun Customize |  137234_苫小牧清掃社_Ver2.1"
+  },
+  {
+    "taskId": "8cd1eadb-1d53-4cf9-9f7c-553d178f945a",
+    "taskName": "2026_OCT_WEEK1_23 | SD5 - JEMS5-Shogun Customize | 115814_京葉興業_Ver2.25"
+  },
+  {
+    "taskId": "8f5bc00f-0c67-43d7-b4f2-a4689eba9286",
+    "taskName": "2026_OCT_WEEK1_24 | SD5 - JEMS5-Shogun Customize |  141504_北日本総業_Ver2.3"
+  },
+  {
+    "taskId": "5816d575-54d1-46b9-81e1-aedd195fbfbf",
+    "taskName": "2026_OCT_WEEK1_3 | SD5 - JEMS5-Shogun Customize |  210464_新井商店_Ver2.2"
+  },
+  {
+    "taskId": "db589628-a9dc-4eed-8e0c-967f58977091",
+    "taskName": "2026_OCT_WEEK1_4 | SD5 - JEMS5-Shogun Customize |  210464_新井商店_Ver2.2"
+  },
+  {
+    "taskId": "89c870a2-d098-472e-8414-506e7ded4423",
+    "taskName": "2026_OCT_WEEK1_5 | SD5 - JEMS5-Shogun Customize | 216749_日本医療環境サービス_Ver2.1"
+  },
+  {
+    "taskId": "10b2f3de-b9d1-4309-85db-da92422a8e0e",
+    "taskName": "2026_OCT_WEEK1_6 | SD5 - JEMS5-Shogun Customize |  128040_リプロワーク_Ver2.9"
+  },
+  {
+    "taskId": "d1309d88-4ce4-4588-a23c-c00438a872e6",
+    "taskName": "2026_OCT_WEEK1_7 | SD5 - JEMS5-Shogun Customize | 3193_上毛資源_Ver2.1"
+  },
+  {
+    "taskId": "a28a9824-a371-4a48-bac3-06a6ff8a7efd",
+    "taskName": "2026_OCT_WEEK1_8 | SD5 - JEMS5-Shogun Customize | 3193_上毛資源_Ver2.1_Sales & Payments"
+  },
+  {
+    "taskId": "8daf0b8b-3ec0-438d-b9b4-b7efe9c5c5cc",
+    "taskName": "2026_OCT_WEEK1_9 | SD5 - JEMS5-Shogun Customize | 199214_宝資源開発_Ver2.0"
+  },
+  {
+    "taskId": "0411c1d9-b1f4-458b-93f8-11a99d869a1b",
+    "taskName": "2026_OCT_WEEK2_1 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2_Sale & Payments"
+  },
+  {
+    "taskId": "1934d72c-1ad9-4f2e-8cc9-81c69449a12a",
+    "taskName": "2026_OCT_WEEK2_10 | SD5 - JEMS5-Shogun Customize | 117706_アールズファクトリー_Ver2.19_Manifest"
+  },
+  {
+    "taskId": "81cf79da-019d-445e-9e09-1e742f8c1eeb",
+    "taskName": "2026_OCT_WEEK2_11 | SD5 - JEMS5-Shogun Customize | 54_比留間運送_Ver1.35_Billing & Settlement"
+  },
+  {
+    "taskId": "7fbe5d27-2e02-47ba-89e2-380da9e113d7",
+    "taskName": "2026_OCT_WEEK2_12 | SD5 - JEMS5-Shogun Customize | 54_比留間運送_Ver1.35_Receipts & Disbursements"
+  },
+  {
+    "taskId": "f5c2ee10-969b-4734-9188-f99114a80894",
+    "taskName": "2026_OCT_WEEK2_13 | SD5 - JEMS5-Shogun Customize | 115814_京葉興業_Ver2.26_Manifest"
+  },
+  {
+    "taskId": "dc51fa0e-65d9-4d62-887a-fcce1188a3a8",
+    "taskName": "2026_OCT_WEEK2_14 | SD5 - JEMS5-Shogun Customize | 227293_サンワグループ_Ver2.0_Receiving & Shipping"
+  },
+  {
+    "taskId": "8789da7a-6bc3-4c28-8ab8-c66d8021bec1",
+    "taskName": "2026_OCT_WEEK2_15 | SD5 - JEMS5-Shogun Customize | 117706_アールズファクトリー_Ver2.19_Billing & Settlement"
+  },
+  {
+    "taskId": "48d3025e-4aab-420a-bb77-c2168a26a391",
+    "taskName": "2026_OCT_WEEK2_16 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2_Report"
+  },
+  {
+    "taskId": "3c658b62-1d1d-4761-a523-3f83442071a4",
+    "taskName": "2026_OCT_WEEK2_17 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2_Master"
+  },
+  {
+    "taskId": "73064939-8593-43c1-8e3e-0a261d972a35",
+    "taskName": "2026_OCT_WEEK2_18 | SD5 - JEMS5-Shogun Customize | 111923_環境整備_Ver2.9_Management"
+  },
+  {
+    "taskId": "3752e8c7-6e00-442a-a71c-9790e21916e9",
+    "taskName": "2026_OCT_WEEK2_19 | SD5 - JEMS5-Shogun Customize | 132636_関西クリアセンター_Ver2.7_Manifest"
+  },
+  {
+    "taskId": "3ad6075b-ecad-4076-9901-3892e123fec8",
+    "taskName": "2026_OCT_WEEK2_2 | SD5 - JEMS5-Shogun Customize |  210464_新井商店_Ver2.2_Report"
+  },
+  {
+    "taskId": "f3b36341-cbf0-460e-b558-12cc239a35f7",
+    "taskName": "2026_OCT_WEEK2_20 | SD5 - JEMS5-Shogun Customize | 115814_京葉興業_Ver2.25_External Integration"
+  },
+  {
+    "taskId": "fc80d64a-0636-4860-b69c-607c9106eb85",
+    "taskName": "2026_OCT_WEEK2_21 | SD5 - JEMS5-Shogun Customize | 141504_北日本総業_Ver2.3_Manifest"
+  },
+  {
+    "taskId": "1facb46c-b12e-4b2c-b25a-04da960154c0",
+    "taskName": "2026_OCT_WEEK2_22 | SD5 - JEMS5-Shogun Customize | 102647_国中環境開発_Ver2.30_Manifest"
+  },
+  {
+    "taskId": "bec9e0e0-259d-44e6-889f-baf3249657cb",
+    "taskName": "2026_OCT_WEEK2_23 | SD5 - JEMS5-Shogun Customize | 216749_日本医療環境サービス_Ver2.1_Billing & Settlement"
+  },
+  {
+    "taskId": "6a3aca57-6b0b-4341-aa0c-cbaa15cb9373",
+    "taskName": "2026_OCT_WEEK2_4 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2_Inventory"
+  },
+  {
+    "taskId": "61453bc9-f58a-4f4b-87e6-3efc40d22c75",
+    "taskName": "2026_OCT_WEEK2_5 | SD5 - JEMS5-Shogun Customize | 227293_サンワグループ_Ver2.0_Reception"
+  },
+  {
+    "taskId": "5f2bbca0-db83-4a19-9440-7859fa97f136",
+    "taskName": "2026_OCT_WEEK2_6 | SD5 - JEMS5-Shogun Customize | 51_JFE環境_Ver1.27_Manifest"
+  },
+  {
+    "taskId": "b2b51515-8aac-4175-bcea-713c41fe0980",
+    "taskName": "2026_OCT_WEEK2_7 | SD5 - JEMS5-Shogun Customize | 143993_東武商事_Ver2.9_Reception"
+  },
+  {
+    "taskId": "d4e396e5-9c09-4549-b7db-a2f42587f987",
+    "taskName": "2026_OCT_WEEK2_8 | SD5 - JEMS5-Shogun Customize | 143993_東武商事_Ver2.9_Sales & Payments"
+  },
+  {
+    "taskId": "a9375585-99df-41c4-b2d6-e3dcc40b8d23",
+    "taskName": "2026_OCT_WEEK2_9 | SD5 - JEMS5-Shogun Customize | 2295_埼玉製鐵原料_Ver1.21_Manifest"
+  },
+  {
+    "taskId": "44a933d9-98e0-40e5-8a16-438515f48465",
+    "taskName": "2026_OCT_WEEK3_1 | SD5 - JEMS5-Shogun Customize | 140136_日興サービス_Ver2.18_Merge"
+  },
+  {
+    "taskId": "415ebe53-6d95-41cf-9985-faf2ceffb9a4",
+    "taskName": "2026_OCT_WEEK3_10 | SD5 - JEMS5-Shogun Customize | 11628_ウム・ヴェルト_Ver2.32_Master"
+  },
+  {
+    "taskId": "5fd25104-0d6d-4c6c-985b-e2a2df55f800",
+    "taskName": "2026_OCT_WEEK3_11 | SD5 - JEMS5-Shogun Customize | 2295_埼玉製鐵原料_Ver1.21_Manifest"
+  },
+  {
+    "taskId": "c254ebd1-5e63-48fa-9e73-b501de29fe6b",
+    "taskName": "2026_OCT_WEEK3_12 | SD5 - JEMS5-Shogun Customize | 111788_東伸サービス_Ver2.13_Manifest"
+  },
+  {
+    "taskId": "610acc46-f0e2-4899-aa52-2c5cea58e82e",
+    "taskName": "2026_OCT_WEEK3_13 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2_Receiving & Shipping"
+  },
+  {
+    "taskId": "94cac942-3ffa-4670-8aff-edde0a46c236",
+    "taskName": "2026_OCT_WEEK3_14 | SD5 - JEMS5-Shogun Customize | 223691_成友興業_Ver2.3_Reception"
+  },
+  {
+    "taskId": "8a07df4c-ea92-42b7-b8d4-4b12e3ac58ce",
+    "taskName": "2026_OCT_WEEK3_15 | SD5 - JEMS5-Shogun Customize | 153873_高砂企画_Ver2.8_Manifest"
+  },
+  {
+    "taskId": "0a7b1eef-8efc-4adf-a378-4213b4bb6635",
+    "taskName": "2026_OCT_WEEK3_16 | SD5 - JEMS5-Shogun Customize | 13259_マテリアルバンク_Ver1.30_Manifest"
+  },
+  {
+    "taskId": "a77c179c-679e-4932-b2bb-d85dc2bcfdaa",
+    "taskName": "2026_OCT_WEEK3_17 | SD5 - JEMS5-Shogun Customize | 181695_ソリタ_Ver2.1_Manifest"
+  },
+  {
+    "taskId": "f9a73ef1-5c9d-4efa-9f8c-b33a074fcdfb",
+    "taskName": "2026_OCT_WEEK3_18 | SD5 - JEMS5-Shogun Customize | 124631_丸升増田本店_Ver2.3_Merge"
+  },
+  {
+    "taskId": "3cb251bc-2d87-464c-bc45-0a96cf620f8e",
+    "taskName": "2026_OCT_WEEK3_19 | SD5 - JEMS5-Shogun Customize | 155803_アースサポート_Ver2.20_Merge"
+  },
+  {
+    "taskId": "0942d244-ed91-414c-b5cf-42692bd7c466",
+    "taskName": "2026_OCT_WEEK3_2 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2_Master"
+  },
+  {
+    "taskId": "58abf025-628f-4f6b-ad2e-0ee63ddad602",
+    "taskName": "2026_OCT_WEEK3_20 | SD5 - JEMS5-Shogun Customize | 170917_豊田ケミカルエンジニアリング_Ver2.11_Master"
+  },
+  {
+    "taskId": "5fbb30d3-6ef7-41a2-87b4-80f323e42d70",
+    "taskName": "2026_OCT_WEEK3_21 | SD5 - JEMS5-Shogun Customize | 170917_豊田ケミカルエンジニアリング_Ver2.11_Manifest"
+  },
+  {
+    "taskId": "41f73772-4c89-4f4c-a754-7dd9416b6f36",
+    "taskName": "2026_OCT_WEEK3_22 | SD5 - JEMS5-Shogun Customize | 227293_サンワグループ_Ver2.0_Sales & Payments"
+  },
+  {
+    "taskId": "5b1e131c-a9f1-468b-b966-adb552187570",
+    "taskName": "2026_OCT_WEEK3_23 | SD5 - JEMS5-Shogun Customize | 190699_公協産業_Ver2.6_Manifest"
+  },
+  {
+    "taskId": "1a6ee617-6a65-42d7-a039-130eb394e541",
+    "taskName": "2026_OCT_WEEK3_3 | SD5 - JEMS5-Shogun Customize | 210464_新井商店_Ver2.2_Report"
+  },
+  {
+    "taskId": "7ef4c623-cb76-4ea8-9995-c8bb2e567f54",
+    "taskName": "2026_OCT_WEEK3_4 | SD5 - JEMS5-Shogun Customize | 227293_サンワグループ_Ver2.0_Reception"
+  },
+  {
+    "taskId": "eadf27bf-caf5-482b-958d-d874e65e5efa",
+    "taskName": "2026_OCT_WEEK3_5 | SD5 - JEMS5-Shogun Customize | 111923_環境整備_Ver2.9_Management"
+  },
+  {
+    "taskId": "de57fa3f-9572-4f29-a6e8-abd8c6f3fc41",
+    "taskName": "2026_OCT_WEEK3_6 | SD5 - JEMS5-Shogun Customize | 150190_HIRAYAMA_Ver2.14_Manifest"
+  },
+  {
+    "taskId": "745a4eb6-056f-4d9d-8c3e-00aec2f4445b",
+    "taskName": "2026_OCT_WEEK3_7 | SD5 - JEMS5-Shogun Customize | 150190_HIRAYAMA_Ver2.14_Merge"
+  },
+  {
+    "taskId": "4e2415d2-c56b-47fa-af2f-8d96675c7d57",
+    "taskName": "2026_OCT_WEEK3_8 | SD5 - JEMS5-Shogun Customize | 171357_丸徳商事_Ver2.2_Merge"
+  },
+  {
+    "taskId": "48d19153-0d1c-441b-b81e-df7c662b5f9e",
+    "taskName": "2026_OCT_WEEK3_9 | SD5 - JEMS5-Shogun Customize | 100514_加山興業_Ver2.18_Merge"
+  },
+  {
+    "taskId": "3a956280-91fb-45b0-b2be-13a5e97fea10",
+    "taskName": "2026_OCT_WEEK4_1 | SD5 - JEMS5-Shogun Customize | 227299_フォース_Ver2.0_Manifest"
+  },
+  {
+    "taskId": "6f28f3d0-90ca-4c56-8ce2-0c1d9e642352",
+    "taskName": "20260108 | SD5 - JEMS5-Shogun Customize | 227293_サンワグループ_Ver2.0"
+  },
+  {
+    "taskId": "782f350a-91e1-48f7-b6b0-caf1a7cb067d",
+    "taskName": "20260108_Reception | SD5 - JEMS5-Shogun Customize | 227293_サンワグループ_Ver2.0"
+  },
+  {
+    "taskId": "121204b0-494f-42e2-b55f-f7042390053c",
+    "taskName": "20260327_Billing & Settlement | SD5 - JEMS5-Shogun Customize |  2962_空知環境_Ver1.13"
+  },
+  {
+    "taskId": "fe02f7cb-3348-46b3-bc45-9009c675d16d",
+    "taskName": "20260353_ Sales & Payments | SD5 - JEMS5-Shogun Customize | 128033_総環_Ver2.13"
+  },
+  {
+    "taskId": "83af8f86-3ac5-427f-b288-f1a00bce3884",
+    "taskName": "20260353_Manifest | SD5 - JEMS5-Shogun Customize | 128033_総環_Ver2.13"
+  },
+  {
+    "taskId": "1e831e6e-d716-4d58-a16e-360f545d273c",
+    "taskName": "20260363_Receiving & Shipping | SD5 - JEMS5-Shogun Customize |  217448_光洲産業_Ver2.0"
+  },
+  {
+    "taskId": "b2a9ac69-d4dc-44ea-8181-9e6c5ca6d290",
+    "taskName": "20260363_Reception | SD5 - JEMS5-Shogun Customize |  217448_光洲産業_Ver2.0"
+  },
+  {
+    "taskId": "ab0ab125-4ae4-479a-bbc7-3a3c1fc8ce23",
+    "taskName": "20260405_Menu | SD5 - JEMS5-Shogun Customize |  155803_アースサポート_Ver2.19"
+  },
+  {
+    "taskId": "ac538503-94ac-45cf-a757-fac632cc8bfe",
+    "taskName": "20260440_Manifest | SD5 - JEMS5-Shogun Customize | 115814_京葉興業_Ver2.26"
+  },
+  {
+    "taskId": "ad6667d0-bf2e-478d-8ee4-a58bd9f3dc7b",
+    "taskName": "20260507_Manifest | SD5 - JEMS5-Shogun Customize | 155400_高俊興業_Ver2.15"
+  },
+  {
+    "taskId": "8ee98727-5082-4eb9-b7a6-7977b4889ab8",
+    "taskName": "20260542 | SD5 - JEMS5-Shogun Customize | 132636_関西クリアセンター_Ver2.7"
+  },
+  {
+    "taskId": "bec97e78-13f2-49eb-88ef-061c4f79af0b",
+    "taskName": "20260542_Manifest | SD5 - JEMS5-Shogun Customize | 132636_関西クリアセンター_Ver2.7"
+  },
+  {
+    "taskId": "4a20d766-85cd-42c6-8d84-df4a68edd5bf",
+    "taskName": "20260849 | SD5 - JEMS5-Shogun Customize | 141504_北日本総業_Ver2.3"
+  },
+  {
+    "taskId": "d73a731d-4e96-4a1d-ad06-162a7680eb73",
+    "taskName": "20260849_Manifest | SD5 - JEMS5-Shogun Customize | 141504_北日本総業_Ver2.2"
+  },
+  {
+    "taskId": "f71c2bf9-de9f-42be-b3fb-06e6573612f1",
+    "taskName": "20260929 | SD5 - JEMS5-Shogun Customize | 223691_成友興業_Ver2.3"
+  },
+  {
+    "taskId": "2e4b80f8-08d2-46eb-8629-69f1bbecf4ef",
+    "taskName": "20260930 | SD5 - JEMS5-Shogun Customize | 109406_山本清掃_Ver2.16"
+  },
+  {
+    "taskId": "1df61370-5613-4679-afa7-7a1c8955ebd8",
+    "taskName": "222462 | SD5 - JEMS5-Shogun Customize | 222461_藤澤環境開発_Ver2.2"
+  },
+  {
+    "taskId": "a71d0383-d449-453a-bdae-f655e61f0dc0",
+    "taskName": "223692 | SD5 - JEMS5-Shogun Customize | 223691_成友興業_Ver2.2"
+  },
+  {
+    "taskId": "0d66625d-ce0c-476d-ad9e-d57c498a72cb",
+    "taskName": "223692_Receiving & Shipping | SD5 - JEMS5-Shogun Customize |  223691_成友興業_Ver2.3"
+  },
+  {
+    "taskId": "1a5a280b-6d10-4a0b-8f0a-dc3ac25312c5",
+    "taskName": "227294_Sales & Payments | SD5 - JEMS5-Shogun Customize |  227293_サンワグループ_Ver2.0"
+  },
+  {
+    "taskId": "c12c0723-e029-4ca7-a847-b15b9e60ed97",
+    "taskName": "246946 | SD5 - JEMS5-Shogun Customize | 58_フライトワン_Ver1.27"
+  }
+]

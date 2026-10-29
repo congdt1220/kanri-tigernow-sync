@@ -1,0 +1,16 @@
+{
+  "returnUrl": "~/Timesheet?date=19%2F10%2F2026&selectdate=22%2F10%2F2026&projectid=2fd98585-1bf2-44e7-96d6-eaeff171f0df",
+  "culture": "en",
+  "TimeLogId": "00000000-0000-0000-0000-000000000000",
+  "DateFromIns": "22/10/2026",
+  "UserId": "2f34e71d-a5c6-41fb-8812-97d76007ee89",
+  "ProjectId": "2fd98585-1bf2-44e7-96d6-eaeff171f0df",
+  "ActivityId": "00bbc095-74fa-4921-a652-765aafbd54fb",
+  "User.Position": "c526b025-5564-47c2-9030-df7d4173009b",
+  "TaskId": "dbfea6c2-16a4-4f9d-8029-7c6b4f63108b",
+  "Hours": "1",
+  "Note": "TEst",
+  "IsRemoteWork": "false",
+  "IsOvertime": "false",
+  "IsChargeable": "false"
+}
